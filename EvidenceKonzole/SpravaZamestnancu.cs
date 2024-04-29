@@ -28,6 +28,8 @@ namespace EvidenceZamestnancu
         string connectionString = @"Server=db.dw177.webglobe.com;Port=3306;Database=aplikace_janpluhar;Uid=aplikace_admin;Pwd=Aplikace123;";
 
 
+        //Ano ja vim, encrypt jeste uplne neovladam :P
+
         public void OtestujPripojeni()
         {
             //pripojeni do DB
